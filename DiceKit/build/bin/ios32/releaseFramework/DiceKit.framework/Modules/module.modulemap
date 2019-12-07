@@ -1,6 +1,0 @@
-framework module DiceKit {
-    umbrella header "DiceKit.h"
-
-    export *
-    module * { export * }
-}
